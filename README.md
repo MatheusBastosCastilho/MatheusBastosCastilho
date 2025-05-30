@@ -33,7 +33,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://www.2fconsultoria.com.br/wp-content/uploads/2017/02/Microsoft-SQL-Server.png" alt="sql server" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://www.2fconsultoria.com.br/wp-content/uploads/2017/02/Microsoft-SQL-Server.png" alt="sql server" width="60" height="40"/> </a> 
 
 <h2>Devops</h2>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -43,9 +43,9 @@
 <h2>Framework</h2>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://didatica.tech/wp-content/uploads/2020/05/image-23.png" alt="scikit learn" width="40" height="40"/> </a> 
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:940/1*44fD_VXcqw2kDWublQLONw.jpeg" alt="lang chain" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="pandas" width="60" height="40"/> </a> 
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://didatica.tech/wp-content/uploads/2020/05/image-23.png" alt="scikit learn" width="60" height="40"/> </a> 
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:940/1*44fD_VXcqw2kDWublQLONw.jpeg" alt="lang chain" width="60" height="40"/> </a> 
 
 <h2>Software</h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 

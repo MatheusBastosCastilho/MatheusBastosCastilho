@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/f57578ca-638b-487e-83c2-de20987a9445)<h1 align="center">Hi 👋, I'm Matheus</h1>
+<h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Im just a regula every day normal developer</h3>
 
 - 🔭 I’m currently working on **Picpay Bank**
 
-- 🌱 I’m currently learning **MongoDB, AI, Estatistics**
+- 🌱 I’m currently learning **MongoDB, AI, Machine Learning, Estatistics**
 
 - 📫 How to reach me **matbastoscastilho@gmail.com**
 

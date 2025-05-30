@@ -33,7 +33,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" alt="sql server" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="[https://www.microsoft.com/pt-br/sql-server/sql-server-2022" alt="sql server](https://www.luiztools.com.br/wp-content/uploads/2013/05/SQL-Server-Logo.png)" width="40" height="40"/> </a> 
 
 <h2>Devops</h2>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 

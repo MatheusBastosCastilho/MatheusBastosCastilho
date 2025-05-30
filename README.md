@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
+![image](https://github.com/user-attachments/assets/f57578ca-638b-487e-83c2-de20987a9445)<h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">Im just a regula every day normal developer</h3>
 
 - 🔭 I’m currently working on **Picpay Bank**
@@ -34,6 +34,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://www.2fconsultoria.com.br/wp-content/uploads/2017/02/Microsoft-SQL-Server.png" alt="sql server" width="60" height="40"/> </a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://blog.patrickbrandao.com/wp-content/uploads/2024/11/redis-logo-512.png" alt="redis" width="40" height="40"/> </a> 
 
 <h2>Devops</h2>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -50,6 +51,7 @@
 <h2>Software</h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" alt="Power BI" width="40" height="40"/> </a> 
 
 <h2>Other</h2>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 

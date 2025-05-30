@@ -42,7 +42,7 @@
 
 <h2>Framework</h2>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="[https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo7cBYeUesXieYg2fmHmid8Lx9crujCejYA&s)" alt="flask" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" alt="flask" width="40" height="40"/> </a> 
 
 <h2>Software</h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 

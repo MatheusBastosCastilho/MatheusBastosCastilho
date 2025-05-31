@@ -44,7 +44,7 @@
 <h2>Framework</h2>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" alt="flask" width="60" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="pandas" width="60" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="pandas" width="70" height="40"/> </a> 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://didatica.tech/wp-content/uploads/2020/05/image-23.png" alt="scikit learn" width="60" height="40"/> </a> 
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:940/1*44fD_VXcqw2kDWublQLONw.jpeg" alt="lang chain" width="60" height="40"/> </a> 
 
